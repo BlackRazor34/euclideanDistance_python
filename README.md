@@ -2,6 +2,7 @@
 Euclidean calculation in Python
 
 
+![pasted image 0](https://github.com/BlackRazor34/euclideanDistance_python/assets/148627217/754e051a-f1ba-4830-b95f-61db6d428099)
 
 
 
